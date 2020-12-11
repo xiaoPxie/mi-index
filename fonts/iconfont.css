@@ -1,0 +1,50 @@
+
+
+@font-face {
+  font-family: 'iconfont';
+  src: url('font_2263102_lp2buor4hdd.eot'); /* IE9*/
+  src: url('font_2263102_lp2buor4hdd.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('font_2263102_lp2buor4hdd.woff') format('woff'), /* chrome、firefox */
+       url('font_2263102_lp2buor4hdd.ttf')  format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+       url('font_2263102_lp2buor4hdd.svg#uxiconfont') format('svg'); /*  iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-kefu:before {
+  content: "\e639";
+}
+
+.icon-buoumaotubiao46:before {
+  content: "\e62b";
+}
+
+.icon-play:before {
+  content: "\e621";
+}
+
+.icon-Clock:before {
+  content: "\ea24";
+}
+
+.icon-right-arrow:before {
+  content: "\e62a";
+}
+
+.icon-left-arrow:before {
+  content: "\e629";
+}
+
+.icon-Search:before {
+  content: "\e6a6";
+}
+
+.icon-gou_wu_che2:before {
+  content: "\e619";
+}
