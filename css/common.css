@@ -191,10 +191,10 @@
 .header .header_nav > ul > li:hover {
   color: #ff6700;
 }
-.header .header_nav > ul > li:hover .product_panel {
+/* .header .header_nav > ul > li:hover .product_panel {
   z-index: 999;
   visibility: visible;
-}
+} */
 .header .search_box {
   float: right;
   margin-top: 2.5px;
